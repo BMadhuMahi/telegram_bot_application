@@ -1,0 +1,7 @@
+Django>=4.0
+djangorestframework
+python-decouple
+mysqlclient
+celery
+redis
+djangorestframework-simplejwt
